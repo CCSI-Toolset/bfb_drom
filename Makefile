@@ -1,5 +1,5 @@
 # A simple makefile for creating the 1MW CFD Model distribution
-VERSION    := 2015.10.00
+VERSION    := `git describe --tags`
 PRODUCT    := Dynamic Reduced Order BFB Model
 PROD_SNAME := BFB_DROM
 LICENSE    := CCSI_TE_LICENSE_$(PROD_SNAME).txt
