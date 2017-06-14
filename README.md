@@ -20,3 +20,16 @@ TBD
 * Mingzhao Yu
 
 See also the list of [contributors](https://github.com/CCSI-Toolset/bfb_drom/contributors) who participated in this project.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, 
+see the [tags on this repository](https://github.com/CCSI-Toolset/bfb_drom/tags). 
+
+## License
+
+See [LICENSE.md](LICENSE.md) file for details
+
+## Copyright Notice
+
+TBD
