@@ -1,5 +1,9 @@
-# bfb_drom
+# BFB-D-ROM
 Dynamic Reduced Order BFB Model
+
+## Getting Started
+
+See installation and user guide documents in the [documentation](./docs) subdirectory.
 
 ## Development Practices
 
@@ -11,20 +15,16 @@ Dynamic Reduced Order BFB Model
   (e.g database host port) should not be checked in to the repo.
 * A practice of rebasing with the main repo should be used rather that merge commmits.
 
-## Getting Started
-
-TBD
-
 ## Authors
 
 * Mingzhao Yu
 
-See also the list of [contributors](https://github.com/CCSI-Toolset/bfb_drom/contributors) who participated in this project.
+See also the list of [contributors](../../contributors) who participated in this project.
 
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, 
-see the [tags on this repository](https://github.com/CCSI-Toolset/bfb_drom/tags). 
+see the [releases](../../releases) or [tags](../../tags) for this repository. 
 
 ## License & Copyright
 
