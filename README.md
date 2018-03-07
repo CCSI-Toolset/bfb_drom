@@ -1,12 +1,12 @@
-# BFB-D-ROM
-Dynamic Reduced Order BFB Model
+# BFB DROM
+Dynamic Reduced Order Models for the solid sorbent Bubbling Fluidized Bed
+
+Note: that this product is also part of the [ProcessModels Bundle](../../../ProcessModels_bundle)
 
 ## Getting Started
-
 See installation and user guide documents in the [documentation](./docs) subdirectory.
 
 ## Development Practices
-
 * Code development will be performed in a forked copy of the repo. Commits will not be 
   made directly to the repo. Developers will submit a pull request that is then merged
   by another team member, if another team member is available.
@@ -16,16 +16,13 @@ See installation and user guide documents in the [documentation](./docs) subdire
 * A practice of rebasing with the main repo should be used rather than merge commits.
 
 ## Authors
-
 * Mingzhao Yu
 
 See also the list of [contributors](../../contributors) who participated in this project.
 
 ## Versioning
-
 We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 see the [releases](../../releases) or [tags](../../tags) for this repository. 
 
 ## License & Copyright
-
 See [LICENSE.md](LICENSE.md) file for details
